@@ -1,8 +1,0 @@
-Olufemi Olumaiyegun
-
-To run this program:
--compile the source file using "g++ assignment5.cpp"
--compiler generates warnings but code compiles and will run regardless
--run the executable followed by an integer base argument. e.g "./a.out 10" for base 10.
-
-
